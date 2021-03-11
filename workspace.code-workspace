@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "SAO",
+            "uri": "vsls:/"
+        }
+    ],
+    "settings": {
+        "files.hotExit": "off",
+        "vsliveshare.join.reload.workspaceId": "85C7A38CE6AF54706F944F6D9692864A2460",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\wande\\AppData\\Local\\Temp\\vsliveshare\\tmp-85C7A38CE6AF54706F944F6D9692864A2460",
+        "vsliveshare.join.correlationId": "",
+        "extensions.ignoreRecommendations": true,
+        "typescript.tsc.autoDetect": "off",
+        "jake.autoDetect": "off",
+        "grunt.autoDetect": "off",
+        "gulp.autoDetect": "off",
+        "npm.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false
+    }
+}
